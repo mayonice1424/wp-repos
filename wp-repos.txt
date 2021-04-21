@@ -1,3 +1,4 @@
 wp repos
 - commit belajar
 - membuat for dis
+- menambahkan kolaborasi
